@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9561f8cb-aaba-4b9d-919f-9bb7b1d25a3b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HXHH29kGIKRE4VXBnfLhEfVgfL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/Algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="GreedyAlogorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA\Algorithm\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RadixSort">
+    <configuration name="FindKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A002排序.A004随机选择.FindKthLargest" />
+      <module name="AdvancedAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A002排序.A004随机选择.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A002排序.A005堆的排序.MaxCover" />
+      <module name="AdvancedAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A002排序.A005堆的排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A002排序.A003快速排序.QuickSort" />
+      <module name="AdvancedAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A002排序.A003快速排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A002排序.A006基数排序.RadixSort" />
+      <module name="AdvancedAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A002排序.A006基数排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A002排序.A002归并分治.ReversePairs" />
+      <module name="AdvancedAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A002排序.A002归并分治.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.27" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RadixSort" />
+      <item itemvalue="Application.MaxCover" />
+      <item itemvalue="Application.FindKthLargest" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.ReversePairs" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.27" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RadixSort" />
+        <item itemvalue="Application.MaxCover" />
+        <item itemvalue="Application.FindKthLargest" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ReversePairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9561f8cb-aaba-4b9d-919f-9bb7b1d25a3b" name="Default Changelist" comment="" />
+      <created>1668424416750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668424416750</updated>
+      <workItem from="1668424418126" duration="625000" />
+      <workItem from="1668832689490" duration="6446000" />
+      <workItem from="1668855130026" duration="5945000" />
+      <workItem from="1668916756221" duration="592000" />
+      <workItem from="1671451128063" duration="4434000" />
+      <workItem from="1671512570047" duration="3841000" />
+      <workItem from="1671517124315" duration="5609000" />
+      <workItem from="1671684170168" duration="4984000" />
+      <workItem from="1671853661987" duration="4775000" />
+      <workItem from="1671938679555" duration="7552000" />
+      <workItem from="1672115780364" duration="10980000" />
+      <workItem from="1672218267728" duration="5489000" />
+      <workItem from="1672289423447" duration="7557000" />
+      <workItem from="1672317937649" duration="4337000" />
+      <workItem from="1672386817848" duration="3535000" />
+      <workItem from="1672461840460" duration="6096000" />
+      <workItem from="1672713993305" duration="3802000" />
+      <workItem from="1672745158130" duration="6713000" />
+      <workItem from="1672796392214" duration="11532000" />
+      <workItem from="1672888604141" duration="10468000" />
+      <workItem from="1672909866109" duration="4615000" />
+      <workItem from="1672979009750" duration="8415000" />
+      <workItem from="1673242759089" duration="3942000" />
+      <workItem from="1673329257226" duration="8247000" />
+      <workItem from="1673362177378" duration="2253000" />
+      <workItem from="1673399411457" duration="20775000" />
+      <workItem from="1673498000618" duration="8873000" />
+      <workItem from="1673584870548" duration="6151000" />
+      <workItem from="1673664210236" duration="880000" />
+      <workItem from="1673665120642" duration="10341000" />
+      <workItem from="1673758281637" duration="1268000" />
+      <workItem from="1673765467127" duration="2501000" />
+      <workItem from="1673768308966" duration="20000" />
+      <workItem from="1673768353399" duration="1070000" />
+      <workItem from="1673775794408" duration="36000" />
+      <workItem from="1673775874197" duration="640000" />
+      <workItem from="1673869166929" duration="5623000" />
+      <workItem from="1673920107494" duration="8961000" />
+      <workItem from="1673941629958" duration="3973000" />
+      <workItem from="1673946430517" duration="971000" />
+      <workItem from="1673956748155" duration="2826000" />
+      <workItem from="1674012624768" duration="3141000" />
+      <workItem from="1674388165066" duration="1405000" />
+      <workItem from="1674662586526" duration="944000" />
+      <workItem from="1674702292689" duration="1454000" />
+      <workItem from="1674703845772" duration="7713000" />
+      <workItem from="1674793842234" duration="9599000" />
+      <workItem from="1674965600672" duration="3163000" />
+      <workItem from="1674980863383" duration="1078000" />
+      <workItem from="1675042151464" duration="5268000" />
+      <workItem from="1675663208262" duration="1191000" />
+      <workItem from="1676018434304" duration="2059000" />
+      <workItem from="1676167611880" duration="6850000" />
+      <workItem from="1676254373136" duration="4998000" />
+      <workItem from="1676443268416" duration="3046000" />
+      <workItem from="1676533841741" duration="1011000" />
+      <workItem from="1676790764870" duration="5137000" />
+      <workItem from="1676885467961" duration="594000" />
+      <workItem from="1676961577516" duration="1439000" />
+      <workItem from="1685704877843" duration="820000" />
+      <workItem from="1692005555117" duration="2071000" />
+      <workItem from="1692062431093" duration="190000" />
+      <workItem from="1692069057354" duration="5503000" />
+      <workItem from="1692588841357" duration="1368000" />
+      <workItem from="1695724707280" duration="4730000" />
+      <workItem from="1695788937262" duration="141000" />
+      <workItem from="1695821905441" duration="3665000" />
+      <workItem from="1696160327353" duration="20470000" />
+      <workItem from="1696325016338" duration="8532000" />
+      <workItem from="1696842948673" duration="3325000" />
+      <workItem from="1697023906814" duration="45000" />
+      <workItem from="1697617363129" duration="15000" />
+      <workItem from="1698668714230" duration="2022000" />
+      <workItem from="1699428316122" duration="2555000" />
+      <workItem from="1702810780418" duration="2812000" />
+      <workItem from="1717757732353" duration="11782000" />
+      <workItem from="1718011265471" duration="6271000" />
+      <workItem from="1721905266011" duration="8466000" />
+      <workItem from="1721997983712" duration="78000" />
+      <workItem from="1721998252431" duration="5575000" />
+      <workItem from="1722174603640" duration="2190000" />
+      <workItem from="1722415977006" duration="10749000" />
+      <workItem from="1722476313862" duration="4196000" />
+      <workItem from="1722946978947" duration="3259000" />
+      <workItem from="1723178542903" duration="2823000" />
+      <workItem from="1723623886812" duration="1679000" />
+      <workItem from="1723774357971" duration="4361000" />
+      <workItem from="1726486322243" duration="4482000" />
+      <workItem from="1733580696994" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Leetcode_Test.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
