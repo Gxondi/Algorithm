@@ -1,7 +1,10 @@
-# 2025/01/04
-## 链表排队系列
-### A001链表相交的第一个点
-### A002每k个节点为一组反转链表
-### A003复制带随机指针的链表
-### A004判断链表是否是回文
-### A005排序链表 要求时间复杂度O(n*logn)，额外空间复杂度O(1)，还要求稳定性
+| 中文                                                                                       | 日文                                                                             | 英文                                                           |
+| :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| # AdvancedAlgorithm                                                                         | # AdvancedAlgorithm                                                               | # AdvancedAlgorithm                                           |
+| 链表排队系列                                                                                | リンクドリストの一連の問題                                                          | Linked List Series                                            |
+| A001链表相交的第一个点                                                                      | A001 リンクドリストが交差する最初のノード                                             | A001 First Intersection Node of Two Linked Lists              |
+| A002每k个节点为一组反转链表                                                                 | A002 k個のノードごとにリストを反転                                                   | A002 Reverse the Linked List Every k Nodes                    |
+| A003复制带随机指针的链表                                                                    | A003 ランダムポインタ付きリストの複製                                                | A003 Copy a Linked List with Random Pointers                  |
+| A004判断链表是否是回文                                                                      | A004 リンクドリストが回文かどうかを判定                                               | A004 Check if the Linked List is Palindromic                  |
+| A005排序链表 要求时间复杂度O(n*logn)，额外空间复杂度O(1)，还要求稳定性                      | A005 リンクドリストのソート<br>・時間計算量: O(n*logn)<br>・追加空間計算量: O(1)<br>・安定性を要求 | A005 Sort the Linked List<br>・Time Complexity: O(n*logn)<br>・Extra Space Complexity: O(1)<br>・Requires Stability |
+
