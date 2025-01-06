@@ -135,12 +135,12 @@
         </a>
       </td>
       <td>
-        <a href="https://leetcode.cn/problems/lru-cache/">
+        <a href="https://leetcode.com/problems/lru-cache/">
           LRUキャッシュ<br>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.cn/problems/lru-cache/">
+        <a href="https://leetcode.com/problems/lru-cache/">
           LRUCache<br>
         </a>
       </td>
