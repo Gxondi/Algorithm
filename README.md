@@ -130,27 +130,18 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Gxondi/Algorithm/blob/main/AdvancedAlgorithm/src/main/java/A003%E9%93%BE%E8%A1%A8%E6%8E%92%E9%98%9F%E7%B3%BB%E5%88%97/A005%E9%93%BE%E8%A1%A8%E6%8E%92%E5%BA%8F/SortList.java">
-          A005排序链表 <br>
-          ・时间复杂度O(n*logn)<br>
-          ・额外空间复杂度O(1)<br>
-          ・稳定性
+        <a href="https://github.com/Gxondi/Algorithm/blob/main/AdvancedAlgorithm/src/main/java/A004%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97/LRUCache.java">
+          LRUCache <br>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.com/problems/sort-list/description/">
-          A005リンクドリストのソート<br>
-          ・時間計算量: O(n*logn)<br>
-          ・追加空間計算量: O(1)<br>
-          ・安定性を要求
+        <a href="https://leetcode.cn/problems/lru-cache/">
+          LRUキャッシュ<br>
         </a>
       </td>
       <td>
-        <a href="https://leetcode.com/problems/sort-list/description/">
-          A005 Sort the Linked List<br>
-          ・Time Complexity: O(n*logn)<br>
-          ・Extra Space Complexity: O(1)<br>
-          ・Requires Stability
+        <a href="https://leetcode.cn/problems/lru-cache/">
+          LRUCache<br>
         </a>
       </td>
     </tr>
