@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9561f8cb-aaba-4b9d-919f-9bb7b1d25a3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A001BFS/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A001BFS/BinaryTreeZigzagLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A001BFS/CompletenessOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A001BFS/CountCompleteTreeNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A001BFS/WidthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A002DFS/LowestCommonAncestorBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A002DFS/PathSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A002DFS/LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedAlgorithm/src/main/java/A005二叉树系列/A002DFS/LowestCommonAncestor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +337,7 @@
       <workItem from="1736402115262" duration="92000" />
       <workItem from="1736402757616" duration="4004000" />
       <workItem from="1737380217862" duration="272000" />
-      <workItem from="1737380523076" duration="672000" />
+      <workItem from="1737380523076" duration="3124000" />
     </task>
     <servers />
   </component>
