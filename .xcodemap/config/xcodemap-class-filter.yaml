@@ -1,0 +1,66 @@
+autoDetectedPackages:
+- A001单双链表反转
+- A001递归和Master公式
+- A002合并有序链表
+- A002排序.A001归并排序
+- A002排序.A002归并分治
+- A002排序.A003快速排序
+- A002排序.A004随机选择
+- A002排序.A005堆的排序
+- A002排序.A006基数排序
+- A003分割链表
+- A003链表排队系列.A001链表相交的第一个点
+- A003链表排队系列.A002每k个节点为一组反转链表
+- A003链表排队系列.A003复制带随机指针的链表
+- A003链表排队系列.A004判断链表是否是回文
+- A003链表排队系列.A005链表排序
+- A004数据结构系列
+- A004链表相加
+- A005二叉树系列
+- A005树的遍历
+- BaseAlgorithm
+- Dijksatra
+- DisjointSets
+- DynamicProgram
+- FindLoop
+- Graph
+- GreaterHeap
+- GreedyAlogorithm
+- HeapSort
+- KMP
+- LinkList
+- Manacher
+- MergeSort
+- MonotonousStack
+- N皇后问题练习
+- QuickSort
+- Recursion
+- SmallerEqualBiger
+- Tire
+- Tree
+- Windows
+- src
+- 二分查找
+- 第三天异或运算.例题.A找出数组中一个出现奇数次的数
+- 第三天异或运算.例题.B把一个INT类型数字最后边1提取出来
+- 第三天异或运算.例题.C找出数组中二个出现奇数次的数
+- 第五天图的广度和深度优先遍历
+- 第四天KMP.A练习
+enableAutoDetect: true
+funcDisplayConfig:
+  skipConstructors: false
+  skipFieldAccess: true
+  skipFieldChange: true
+  skipGetters: true
+  skipNonProjectPackages: true
+  skipPrivateMethods: false
+  skipSetters: true
+ignoreSameClassCall: null
+ignoreSamePackageCall: null
+includedPackagePrefixes: null
+includedParentClasses: null
+name: xcodemap-filter
+recordMode: smart
+sourceDisplayConfig:
+  color: blue
+startOnDebug: false
